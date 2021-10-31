@@ -3,7 +3,7 @@
 Datasets of votes that can be used with Majority Judgment.
 
 
-## Directory `tallies`
+## Directory `profiles`
 
 Holds CSV (or other formats?) files with the amounts of judgments per grade and per proposal:
 
@@ -17,7 +17,7 @@ Pasta,      4,    5,    1,    4,         0,        2
 The first line defining the grades is optional, and grades MUST be ordered from "worst" to "best".
 
 
-## Directory `judgments`
+## Directory `ballots`
 
 Holds CSV (or other formats?) files with the judgments per proposal of each judge:
 
